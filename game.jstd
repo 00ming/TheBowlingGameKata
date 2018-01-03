@@ -1,0 +1,4 @@
+load:
+  - src/Game.js
+test:
+  - test/GameTest.js
